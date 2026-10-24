@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmveymikz0aia01rcvhfrlqhs). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> Music week is circuits that turn voltage into sound.
+> Music week is circuits that turn voltage into sound. This is my MIDI Keyboard with a twist for the Week 3 Half Life Tutorial Project
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
